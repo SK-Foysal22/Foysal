@@ -1,0 +1,12 @@
+name: Scientific_Calculator
+title: Scientific_Calculator
+username: hossain
+account: hossain
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10790298
+bundleId: 8059266
+url: https://hossain.shinyapps.io/Scientific_Calculator/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
